@@ -6,5 +6,6 @@ fun main() {
     val c = 3
     val d = 5
     val averageScore = (a + b + c + d) / 4.toDouble()
+
     println(averageScore)
 }
